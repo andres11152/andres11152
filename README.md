@@ -62,8 +62,10 @@
 
 ### 📌 Featured Projects
 
-- 🛒 [**racing-bike**](https://github.com/andres11152/racing-bike) — WordPress theme on Sage 11 (Blade + Acorn) with Tailwind CSS v4 and WooCommerce.
+- 💬 [**CRM-Omnichannel**](https://github.com/andres11152/CRM-Omnichannel) — Multi-tenant Omnichannel CRM SaaS (backend + frontend) with real-time WhatsApp integration, strict tenant isolation, and R-S-C architecture.
 - 🌐 [**skycode-web**](https://github.com/andres11152/skycode-web) — Trilingual marketing site + internal CRM/project dashboard with real auth, built on Next.js and PostgreSQL.
+- 🎙️ [**invencheck**](https://github.com/andres11152/invencheck) — Voice-driven physical inventory count PWA with anomaly detection and offline support, built with NestJS + Prisma + PostgreSQL and a Next.js client.
+- 🛒 [**racing-bike**](https://github.com/andres11152/racing-bike) — WordPress theme on Sage 11 (Blade + Acorn) with Tailwind CSS v4 and WooCommerce.
 - 🍎 [**don-kampo-API**](https://github.com/andres11152/don-kampo-API) + [**don-kampo-front**](https://github.com/andres11152/don-kampo-front) — Full-stack e-commerce platform (Node/Express API + React frontend) for a fresh-produce marketplace.
 
 ---
