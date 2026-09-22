@@ -1,38 +1,45 @@
-<h1 align="center">👋 Hola, soy Andrés Betancourt</h1>
-<h3 align="center">Senior Full-Stack & Cloud Solutions Architect</h3>
+<h1 align="center">👋 Hi, I'm Andrés Betancourt</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <em>Especializado en Arquitecturas Distribuidas de Alto Rendimiento, Integración de Agentes de IA y Sistemas Enterprise de Misión Crítica.</em>
+<em>Building end-to-end web platforms — from custom WordPress/WooCommerce stores to React & Node.js applications backed by PostgreSQL.</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/andresbetancourto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:Andres11152@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portafolio-btc.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/andresbetancourto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:Andres11152@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://portafolio-btc.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
-### 🚀 Perfil Ejecutivo & Capacidades Core
+### 🚀 What I Do
 
-- 🔭 **Current Focus:** Liderando la arquitectura e implementación de software enterprise en mi agencia, integrando **Modelos de Lenguaje Locales (LLM Agents via Ollama / Qwen)** y pipelines de automatización avanzada.
-- 🏗️ **Enterprise Software Engineering:** Experiencia diseñando e implementando plataformas complejas de alta disponibilidad:
-  * **Omnichannel CRM Architectures:** Orquestación de flujos de comunicación masiva y bots omnicanal (WhatsApp Business API / Workflows automatizados complejos).
-  * **Private Travel Management Systems:** Software a medida para logística, reservas y gestión operativa de transporte privado.
-  * **E-Commerce & ERP Integration Platforms:** Sincronización transaccional de alto tráfico entre módulos contables, inventario y motores de comercio electrónico.
-- ☁️ **Cloud Infrastructure & DevOps:** Despliegue, contenedorización y administración de infraestructura VPS (Ubuntu Linux, Contabo, AWS S3 Buckets, Railway) mediante **Docker Multi-Container Orchestration**, garantizando tolerancia a fallos y costos optimizados.
-- ⚡ **Full-Stack Stack Mastery:** Desarrollo End-to-End optimizado con **Next.js (App Router), NestJS, Node.js/Express, TypeScript, PostgreSQL (Prisma ORM)** y bases NoSQL (**MongoDB**).
+- 🔭 **Current Focus:** Leading the architecture and implementation of enterprise software at my agency, integrating local LLM agents (Ollama / Qwen) and advanced automation pipelines.
+- 🏗️ **Software Engineering:** Experience designing and building complex, high-availability platforms:
+  - **Omnichannel CRM Architectures:** Orchestrating mass-communication flows and omnichannel bots (WhatsApp Business API / complex automated workflows).
+  - **Private Travel Management Systems:** Custom software for logistics, bookings, and day-to-day operations of private transportation companies.
+  - **E-Commerce & ERP Integration Platforms:** High-traffic transactional sync between accounting, inventory, and e-commerce engines.
+- 🎨 **WordPress & Custom Themes:** Building performant, maintainable WordPress sites with Sage (Blade + Acorn), Tailwind CSS, and WooCommerce.
+- ☁️ **Cloud Infrastructure & DevOps:** Deploying, containerizing, and managing VPS infrastructure (Ubuntu Linux, Contabo, AWS S3, Railway) with Docker multi-container orchestration for fault tolerance and optimized cost.
+- ⚡ **Full-Stack Development:** End-to-end delivery with Next.js (App Router), React, NestJS, Node.js/Express, TypeScript, PostgreSQL (Prisma ORM), PHP & Laravel-style tooling (via Sage/Acorn), and NoSQL (MongoDB).
 
 ---
 
-### 🛠️ Tech Stack & Ecosistema de Infraestructura
+### 🛠️ Tech Stack
 
-#### **Core & Frontend Architecture**
+#### **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js_14+-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_18+-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+#### **WordPress & PHP**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
 #### **Backend, APIs & Databases**
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -50,6 +57,14 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_Automations-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Ollama AI](https://img.shields.io/badge/Ollama_Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- 🛒 [**racing-bike**](https://github.com/andres11152/racing-bike) — WordPress theme on Sage 11 (Blade + Acorn) with Tailwind CSS v4 and WooCommerce.
+- 🌐 [**skycode-web**](https://github.com/andres11152/skycode-web) — Trilingual marketing site + internal CRM/project dashboard with real auth, built on Next.js and PostgreSQL.
+- 🍎 [**don-kampo-API**](https://github.com/andres11152/don-kampo-API) + [**don-kampo-front**](https://github.com/andres11152/don-kampo-front) — Full-stack e-commerce platform (Node/Express API + React frontend) for a fresh-produce marketplace.
 
 ---
 
