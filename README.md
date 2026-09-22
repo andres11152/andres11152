@@ -15,7 +15,7 @@
 
 ### What I Do
 
-- **Current Focus:** Leading the architecture and implementation of enterprise software at my agency, integrating local LLM agents (Ollama / Qwen) and advanced automation pipelines.
+- **Current Focus:** Leading the architecture and implementation of client projects at my agency, from system design through production deployment.
 - **Software Engineering:** Experience designing and building complex, high-availability platforms:
   - **Omnichannel CRM Architectures:** Orchestrating mass-communication flows and omnichannel bots (WhatsApp Business API / complex automated workflows).
   - **Private Travel Management Systems:** Custom software for logistics, bookings, and day-to-day operations of private transportation companies.
@@ -56,7 +56,6 @@
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu_VPS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_Automations-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Ollama AI](https://img.shields.io/badge/Ollama_Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=white)
 
 ---
 
@@ -73,10 +72,6 @@
 ### GitHub Analytics
 
 <div align="center">
-
-![Andrés' GitHub Stats](https://github-readme-stats.vercel.app/api?username=andres11152&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres11152&layout=compact&theme=tokyonight&hide_border=true)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=andres11152&label=Profile%20Views&color=0077B5&style=flat-square)](https://github.com/andres11152)
 
