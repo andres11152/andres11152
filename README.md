@@ -6,8 +6,12 @@
 </p>
 
 <p align="center">
+<strong>Open to new opportunities — reach out at andres.betancourt@skycode.agency</strong>
+</p>
+
+<p align="center">
 <a href="https://linkedin.com/in/andresdev92/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:Andres11152@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:andres.betancourt@skycode.agency"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://skycode.agency/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
